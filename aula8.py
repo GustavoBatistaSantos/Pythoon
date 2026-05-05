@@ -1,0 +1,1 @@
+print("\033[1;42;45m olá, mundo\033[m")#o segundo barra 033 e para ficar apenas no olá mundo
