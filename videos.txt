@@ -3,7 +3,7 @@
 2236. Bertholdt vs Eren;
 2513. Mugen char Megumin feito por Entah 99;
 1989. Mugen char Cosmic Garou [Edit];
-2718. Naruto Shippuden Mugen JUS V2 (OpenGL e DirectX)
+2718. Naruto Shippuden Mugen JUS V2 (OpenGL e DirectX);
 3344. Jump Force Mugen V1 (DirectX)
 2912. Dragon Ball Z Ultimate Fighter 2 (OpenGL) feito por SasukeUCHIHA592
 3191. Mugen char Gogeta by InSeph
