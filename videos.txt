@@ -7,24 +7,24 @@
 1671. Mugen char Neuro | Char Academy by InSeph;
 2765. Mugen char rock lee 8 portões [Edit];
 1023. Naruto possuído - Capítulo 0 e 1;
-245. Mugen char Gilgamesh UBW | Char Academy by InSeph
-820. Rimuru vs Ainz Ooal Gown
-496. Mugen char Crono | Char Stardust by PackManMUGEN, Planeptune Arte and Ahruon
-2156. Mugen char Lemillion by ElGranDiego
-1890. Mugen char Miwa by SoulFire
-1311. Itadori e Nanami vs Shanks
-1436. Azashiro vs Goku UI
-1789. Muge char Rose by Mounir
-2830. Mugen char Kefla Metamoro SSJ feito por BBANIME AKA HACKATTACK
-922. Mugen char Satoru Gojo V2 by Dino
-252. Mugen char Ichigo Dangai HD by BK_Mugen
-3096. Ichigo Mask vs Ulquiorra - Bleach Story Mode
-2673. Mugen char Neo feito por Dano renovado
-2050. Mugen char Doma by Sebastião
-2068. Goku Black vs Midoriya e Bakugou One For All
-2887. Mugen char Tomioka V2 feito por mysh 2002
-3003. Mugen char estarossa by SoulFire
-3244. Saint seiya mugen V6 - (DirectX)
+245. Mugen char Gilgamesh UBW | Char Academy by InSeph;
+820. Rimuru vs Ainz Ooal Gown;
+496. Mugen char Crono | Char Stardust by PackManMUGEN, Planeptune Arte and Ahruon;
+2156. Mugen char Lemillion by ElGranDiego;
+1890. Mugen char Miwa by SoulFire;
+1311. Itadori e Nanami vs Shanks;
+1436. Azashiro vs Goku UI;
+1789. Muge char Rose by Mounir;
+2830. Mugen char Kefla Metamoro SSJ feito por BBANIME AKA HACKATTACK;
+922. Mugen char Satoru Gojo V2 by Dino;
+252. Mugen char Ichigo Dangai HD by BK_Mugen;
+3096. Ichigo Mask vs Ulquiorra - Bleach Story Mode;
+2673. Mugen char Neo feito por Dano renovado;   
+2050. Mugen char Doma by Sebastião;
+2068. Goku Black vs Midoriya e Bakugou One For All;
+2887. Mugen char Tomioka V2 feito por mysh 2002;
+3003. Mugen char estarossa by SoulFire;
+3244. Saint seiya mugen V6 - (DirectX);
 3076. Mugen char sasakibe by mysh 2002
 1757. Mugen char Cell by Dcslayer
 3387. Metal Slug 7 para android (Emulador Drastic)
