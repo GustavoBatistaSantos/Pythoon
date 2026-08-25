@@ -25,15 +25,12 @@
 2887. Mugen char Tomioka V2 feito por mysh 2002;
 3003. Mugen char estarossa by SoulFire;
 3244. Saint seiya mugen V6 - (DirectX);
-3076. Mugen char sasakibe by mysh 2002
-1757. Mugen char Cell by Dcslayer
-3387. Metal Slug 7 para android (Emulador Drastic)
-1066. Sukuna vs Goku
-140. Mugen char Gilthunder by tío mugen (CHRIS)
-482. Mugen char Trunks SSJ Rage by Ismael005 Ortiz
-263. Pack de Stages #20
-3000. Nanatsu no taizai Mugen V6 (DirectX)
-3325. Nanatsu no taizai V2.5 (DirectX)
+3076. Mugen char sasakibe by mysh 2002;
+1757. Mugen char Cell by Dcslayer;
+1066. Sukuna vs Goku;
+140. Mugen char Gilthunder by tío mugen (CHRIS);
+482. Mugen char Trunks SSJ Rage by Ismael005 Ortiz;
+3000. Nanatsu no taizai Mugen V6 (DirectX);
 1710. Mugen char Brook Imortal Edit by XCRYSHY
 525. Melhores chars de 2024
 2992. Mugen char Link by PackManMugen
@@ -419,7 +416,6 @@
 1009. Mugen char Reptile by Arxhie_V3noct
 1006. Mugen char Rain [Edit]
 3282. Mugen char Shisui by Salah Uchiha
-3357. Nanatsu no Taizai Mugen V2 (DirectX)
 2957. Mugen char Goku ssj7 feito por ElHuesos Locos
 2845. Mugen char Goku SSJ end dbz feito por ElHuesos Locos
 34. Mugen char Dio all forms by Gull_Eat_Fish
@@ -1183,7 +1179,6 @@
 2260. Mugen char Saitama dublado por Mugen Br
 1988. Goku e Unohana vs Itachi e Morgan
 575. Mugen char Freeza 3rd form by UraharaGreenHat e This Boy
-3186. Nanatsu no taizai Mugen V3 (DirectX)
 936. Mugen char Reimu Hakurei by Planeptune Arte
 1487. Mugen char Vegito Ultra Ego Instinct by Luan360 Gameplay PC
 1168. Mugen char Garou Hunters by Justin Kaiser
@@ -1646,7 +1641,6 @@
 3010. Pack de chars Bleach - Kenpachi tybw, byakuya tybw, ishida schoolboy e barragan transform
 1391. Mugen char Rock Lee by Burako
 1070. Mugen char Vergil | Char Academy by InSeph
-3055. Nanatsu no Taizai Mugen V5 DirectX
 2179. One Punch Man Mugen V7 (DirectX)
 1746. Mugen char Yamcha by Tomo
 1109. Mugen char Yor Forger by CHARMARHER
@@ -2229,7 +2223,6 @@
 1615. Mugen char Omaeda by Mugen Gamer
 3231. mugen char zenitsu by white
 3367. Mugen char Ichigo Kurosaki by Sonikku TSK
-3328. Nanatsu no Taizai mugen V2.5 (OpenGL) - Download
 1332. Itachi vs Byakuya
 60. Mugen char Aizen | Stardust Style by IvanTheRysavy
 2806. Luffy Gear 4 Snakeman vs todo mundo Jump force mugen V7
@@ -2847,7 +2840,6 @@
 1884. Mugen char Orange Piccolo OP by (White X Demon e Mugen Station)
 2557. Mugen char Inosuke Dublado feito por Mugen Br
 674. Mugen char Hatake Kakashi (OpenGL) by Shadow
-2787. Nanatsu no Taizai Mugen V7 (DirectX)
 3413. Samurai Vengeance 2 - modo hard [chapter 1 e 2]
 2855. mugen char Capitão america feito por Team Pissione Muerdemela e dano
 1069. Mugen char Cooler | Char Academy by InSeph
@@ -2999,7 +2991,6 @@
 2310. Mugen char Inumaki by mounir
 1707. Mugen char Android 18 HD [Edit]
 57. Mugen char Inumaki | Stardust Style by Damaylor
-3157. Nanatsu no Taizai Mugen V4 (DirectX)
 3070. Mugen char Karen by Viniciusonico, Icarus Kurøi and rivelio
 3145. Mugen char Gohan Mui by ElHuesos Locos
 1033. Mugen char Itadori Edit by Son Stabby
