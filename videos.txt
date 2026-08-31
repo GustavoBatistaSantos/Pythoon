@@ -50,11 +50,11 @@
 1733. Jujutsu Kaisen Mugen V9 (OpenGLe DirectX);
 2583. Mugen char Ikki armadura V2;
 53. Mugen char Sanji | Stardust Style by Damaylor;
-2669. Mugen char Ikki de Leão
-1742. Mugen char Ban Purgatorio by Elisson
-3212. Mugen char Gogeta by InSeph
-2082. Mugen char Saber edit by QINYAN
-1813. Mugen char Kyoraku by Mot Thanchanok
+2669. Mugen char Ikki de Leão;
+1742. Mugen char Ban Purgatorio by Elisson;
+3212. Mugen char Gogeta by InSeph;
+2082. Mugen char Saber edit by QINYAN;
+1813. Mugen char Kyoraku by Mot Thanchanok;
 1547. Mugen char Merged Zangetsu by Zexxel Strive
 3307. Mugen char Zoro by Caiudu
 1790. Mugen char Kensei by Mounir
