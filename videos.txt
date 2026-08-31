@@ -31,23 +31,22 @@
 140. Mugen char Gilthunder by tío mugen (CHRIS);
 482. Mugen char Trunks SSJ Rage by Ismael005 Ortiz;
 3000. Nanatsu no taizai Mugen V6 (DirectX);
-1710. Mugen char Brook Imortal Edit by XCRYSHY
-525. Melhores chars de 2024
-2992. Mugen char Link by PackManMugen
-2078. Eve vs Nezuko
-3210. Mugen char dabura (edit) by Eleazhar
-2133. Gyutaro vs Uzui Tengen
-2617. Mugen char Hiei Demon [Edit]
-2032. Jin Woo vs Doma
-1442. Mugen char Azashiro by Mounir Mugen
-1713. Mugen char Kuririn by oscar san
-3071. Aizen vs Gin - Bleach Story Mode
-2033. Zoro (Onigashima) vs Shiryu all forms
-1428. Mugen char Tsurugi Momotaro | Char Academy by InSeph
-1508. Mugen char Nelliel by Mounir
-742. Mugen char Obito Zetsu by Mimi Sisi
-1084. Mugen char Obito Blood Night by 不会点东西吃
-2093. Kula vs Gilgamesh
+1710. Mugen char Brook Imortal Edit by XCRYSHY;
+2992. Mugen char Link by PackManMugen;
+2078. Eve vs Nezuko;
+3210. Mugen char dabura (edit) by Eleazhar;
+2133. Gyutaro vs Uzui Tengen;
+2617. Mugen char Hiei Demon [Edit];
+2032. Jin Woo vs Doma;
+1442. Mugen char Azashiro by Mounir Mugen;
+1713. Mugen char Kuririn by oscar san;
+3071. Aizen vs Gin - Bleach Story Mode;
+2033. Zoro (Onigashima) vs Shiryu all forms;
+1428. Mugen char Tsurugi Momotaro | Char Academy by InSeph;
+1508. Mugen char Nelliel by Mounir;
+742. Mugen char Obito Zetsu by Mimi Sisi;
+1084. Mugen char Obito Blood Night by 不会点东西吃;
+2093. Kula vs Gilgamesh;
 1733. Jujutsu Kaisen Mugen V4 (OpenGLe DirectX)
 1387. Goku, Ichigo e Naruto Ultimate
 2583. Mugen char Ikki armadura V2
