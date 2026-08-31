@@ -47,10 +47,9 @@
 742. Mugen char Obito Zetsu by Mimi Sisi;
 1084. Mugen char Obito Blood Night by 不会点东西吃;
 2093. Kula vs Gilgamesh;
-1733. Jujutsu Kaisen Mugen V4 (OpenGLe DirectX)
-1387. Goku, Ichigo e Naruto Ultimate
-2583. Mugen char Ikki armadura V2
-53. Mugen char Sanji | Stardust Style by Damaylor
+1733. Jujutsu Kaisen Mugen V9 (OpenGLe DirectX);
+2583. Mugen char Ikki armadura V2;
+53. Mugen char Sanji | Stardust Style by Damaylor;
 2669. Mugen char Ikki de Leão
 1742. Mugen char Ban Purgatorio by Elisson
 3212. Mugen char Gogeta by InSeph
@@ -140,7 +139,6 @@
 709. Mugen char Momonga Edit by GOLDEN1998
 1542. Mugen char Pain Pro (DirectX) Edit by UZuUChi
 1149. Mugen char Goku SSJ Infinity Ultra Instinct Edit by UZuUChi
-1796. Jujutsu Kaisen Mugen V3 (OpenGL e DirectX)
 264. Mugen char Besouro Azul by kimisei
 2700. Mugen char Shion de aries
 413. Mugen char Kirito | Char Stardust Edit by Ronixxx
@@ -185,7 +183,6 @@
 3277. Mugen char Goruto by Xmugen
 2926. Bleach Mugen V6 (OpenGL e DirectX)
 1588. Mugen char Gowther V2 by Planeptune Arte
-2107. Jujutsu Kaisen Mugen V2 (DirectX)
 2722. Mugen char future gohan feito por BloodBathAnime
 2398. Mugen char Minato Kcm (OpenGL) by Om Hy
 3278. Mugen char Cumber JUS Release (feito por Knightmare404)
@@ -816,7 +813,6 @@
 2164. Mugen char Saori Kido (Atena)
 170. Mugen char Yi | Char Academy Edit by InSeph
 1848. Mugen char Sanemi Dublado (Edit by ELISSON)
-1565. Jujutsu Kaisen Mugen V5 (OpenGL e DirectX)
 2235. Mugen char Broly DBS by BlueStoneW
 1882. Mugen char Black Freeza V2 by White X Demon + Edit
 131. Mugen char Metal Sonic by x𝘾𝙧𝙤𝙣𝙤𝙨𝙩𝙖𝙨𝙞𝙨x
@@ -1160,7 +1156,6 @@
 1782. JoJo's Bizarre Adventure All-Star Battle R Mugen Original (OpenGL e DirectX)
 2031. Zoro (Onigashima) vs Jin Woo
 1678. Mugen char Goku Ikari by UZuUChi
-1038. Jujutsu Kaisen Mugen V6 (OpenGL e DirectX)
 308. Obito vs Orange Piccolo
 3318. Mugen char Cell by Knightmare404 e dano renovado
 2150. Mugen char Deku Vigilante by Jorge Diaz
@@ -1845,7 +1840,6 @@
 2645. Mugen char Goku Daishinkan SSJ feito por ElHuesos Locos
 2181. Dio K2.4 vs Luffy Snakeman e Bartolomeo
 295. Mugen char Neji Kid [Edit]
-2546. Jujutsu Kaisen Mugen V1 (DirectX)
 744. Mugen char Agito Beta 10%
 2346. A ressureição de Madara - Naruto Ultimate Ninja Storm 4 Mugen [Parte 11]
 1124. Mugen char Mitsuri by SoulFire
@@ -2235,7 +2229,6 @@
 1198. Mugen char Goten Mui (Edit resprite by Luan360 Gameplay PC)
 3301. Mugen char black vegeta
 2541. Mugen char HFTF Jotaro Kujo feito por Dio Brando
-206. Jujutsu Kaisen Mugen V9
 1389. Mugen char Rayleigh by Xyubo
 272. Mugen char Sasuke Kid CS2 JUS [Edit]
 1329. Mugen char Shinobu Edit by KuroFey
@@ -2346,7 +2339,6 @@
 1582. Mugen char Vegeta SSJ Blue by Malusardi Mugen
 2860. mugen char Luffy Gear 4 feito por Lucasgamerstech
 2670. Mugen char Black SSJ3 rosé [Edit]
-426. Jujutsu Kaisen Mugen V8
 282. Mugen char Kidomaru [Edit]
 629. Mugen sprites Choso by Mugen matias, R0B4N BVN, God of Mugen e Hea4k/Herk Bvn
 238. Mugen char Kefla | Char Academy by InSeph
@@ -2686,7 +2678,6 @@
 747. Mugen char Sukuna Mangá V4
 1718. Melty Blood Mugen (OpenGL e DirectX)
 229. Mugen char Pure Vessel by Z1aker
-528. Jujutsu Kaisen Mugen V7
 2477. Mugen char Genos atualizado por InSeph e PackManMugen
 1530. Mugen char Future Gohan SSJ by Ismael005 Ortiz
 1855. Mugen char Dio | Char Academy by InSeph
