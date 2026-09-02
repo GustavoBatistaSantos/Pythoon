@@ -59,13 +59,13 @@
 3307. Mugen char Zoro by Caiudu;
 1790. Mugen char Kensei by Mounir;
 2762. Mugen char Shinobu feito por SoulFire;
-45. Mugen char Baki | Stardust Style by Damaylor
-1234. Mugen char Madara Edo Tensei by UZuUChi
-1543. Mugen char Gon all forms by MateoG9
-2103. Mugen char Koro Sensei by Jorge Diaz
-256. Mugen char Hornet (OpenGL) by Z1aker
-36. Mugen char Sanji by KuroFey-Mugen
-54. Mugen char Yami | Stardust Style by Damaylor
+45. Mugen char Baki | Stardust Style by Damaylor;
+1234. Mugen char Madara Edo Tensei by UZuUChi;
+1543. Mugen char Gon all forms by MateoG9;
+2103. Mugen char Koro Sensei by Jorge Diaz;
+256. Mugen char Hornet (OpenGL) by Z1aker;
+36. Mugen char Sanji by KuroFey-Mugen;
+54. Mugen char Yami | Stardust Style by Damaylor;
 1390. Mugen char Future Gohan in Black SSJ by Ismael005 Ortiz
 2811. Mugen char Gintoki [Atualização]
 239. Mugen char Lancer | Char Academy by InSeph
