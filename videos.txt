@@ -66,19 +66,18 @@
 256. Mugen char Hornet (OpenGL) by Z1aker;
 36. Mugen char Sanji by KuroFey-Mugen;
 54. Mugen char Yami | Stardust Style by Damaylor;
-1390. Mugen char Future Gohan in Black SSJ by Ismael005 Ortiz
-2811. Mugen char Gintoki [Atualização]
-239. Mugen char Lancer | Char Academy by InSeph
-2097. Tomioka Oni vs Tokito
-729. Mugen char Katsuki Bakugo | Char Academy by InSeph
-1926. Mugen char Vegetto Blue by Salah Uchiha
-1292. Shinobu Ultimate
-2822. Mugen char Evil Goku SSJ4 feito por Tohru Sama e gwen071
-430. Mugen char Gojo Shinjuku (Edit DirectX)
-1811. Mugen char Goku SSJ 20000 by Luan360 Gameplay PC
-2667. Mugen char Shiryu Armadura V1
-405. Mugen char Vegeta SSJ4 by Micheal22
-2721. Mugen char Gogeta ssj5 feito por Teixeira's Mugen e elmobr
+1390. Mugen char Future Gohan in Black SSJ by Ismael005 Ortiz;
+2811. Mugen char Gintoki [Atualização];
+239. Mugen char Lancer | Char Academy by InSeph;
+729. Mugen char Katsuki Bakugo | Char Academy by InSeph;
+1926. Mugen char Vegetto Blue by Salah Uchiha;
+1292. Shinobu Ultimate;
+2822. Mugen char Evil Goku SSJ4 feito por Tohru Sama e gwen071;
+430. Mugen char Gojo Shinjuku (Edit DirectX);
+1811. Mugen char Goku SSJ 20000 by Luan360 Gameplay PC;
+2667. Mugen char Shiryu Armadura V1;
+405. Mugen char Vegeta SSJ4 by Micheal22;
+2721. Mugen char Gogeta ssj5 feito por Teixeira's Mugen e elmobr;
 95. Mugen char Rimuru Lord Demon | Stardust
 1501. Mugen char Naruto all forms | Mugen Evolução by LUCASZIN DO MUGEM
 3343. Legendary z warriors (sem emulador)
