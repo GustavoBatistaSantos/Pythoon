@@ -126,26 +126,26 @@
 128. Mugen char Jinwoo | Stardust by Damaylor;
 129. Mugen char Cell Max by Bardock_Revenge;
 130. Mugen char Luffy Gear 5 | Stardust by Damaylor MUGEN and Ronixxx;
-131. Anime Stardust Ultimate Mugen/Ikemen
-132. Mugen char Chun-Li by BloodBathAnime
-133. Mugen char Terry by BloodBathAnime
-134. Mugen char Yuta Shinjuku by Dr Animation
-135. Mugen char Zero Black | Char Academy Edit by InSeph
-136. Mugen char Zero | Char Academy Edit by InSeph
-137. Mugen char Super Vegetto SSJ4 e SSJ5 by Okachanman
-138. Mugen char Rei Arthur do Caos by tío mugen (CHRIS)
-139. Mugen char Super Buu by ElHuesos Locos
-140. Mugen char Miko Yotsuya by Xkleitoss
-141. Mugen char Naoya Zenin by UzuUchi
-142. Mugen char Vegito all forms by Micheal22
-143. Mugen char Gotenks SSJ3 (FighterZ) by silly_devv
-144. Mugen char Sasuke Rinnegan Update 2 by Normandor
-145. Mugen char Seilah by SkFenix
-146. Mugen char Jin Kazama by Xyubo
-147. Cyber Mugen V2
-148. Jump Force Ikemen
-149. Mugen char Nappa FighterZ by silly_devv
-150. Mugen char Dante e Vergil vs Mahoraga
+131. Anime Stardust Ultimate Mugen/Ikemen;
+132. Mugen char Chun-Li by BloodBathAnime;
+133. Mugen char Terry by BloodBathAnime;
+134. Mugen char Yuta Shinjuku by Dr Animation;
+135. Mugen char Zero Black | Char Academy Edit by InSeph;
+136. Mugen char Zero | Char Academy Edit by InSeph;
+137. Mugen char Super Vegetto SSJ4 e SSJ5 by Okachanman;
+138. Mugen char Rei Arthur do Caos by tío mugen (CHRIS);
+139. Mugen char Super Buu by ElHuesos Locos;
+140. Mugen char Miko Yotsuya by Xkleitoss;
+141. Mugen char Naoya Zenin by UzuUchi;
+142. Mugen char Vegito all forms by Micheal22;
+143. Mugen char Gotenks SSJ3 (FighterZ) by silly_devv;
+144. Mugen char Sasuke Rinnegan Update 2 by Normandor;
+145. Mugen char Seilah by SkFenix;
+146. Mugen char Jin Kazama by Xyubo;
+147. Cyber Mugen V2;
+148. Jump Force Ikemen;
+149. Mugen char Nappa FighterZ by silly_devv;
+150. Mugen char Dante e Vergil vs Mahoraga;
 151. Mugen char Vergil all forms by Ghost Carti
 152. Mugen char Dante all forms by Ghost Carti
 153. Mahoraga vs Todos
