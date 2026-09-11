@@ -146,36 +146,34 @@
 148. Jump Force Ikemen;
 149. Mugen char Nappa FighterZ by silly_devv;
 150. Mugen char Dante e Vergil vs Mahoraga;
-151. Mugen char Vergil all forms by Ghost Carti
-152. Mugen char Dante all forms by Ghost Carti
-153. Mahoraga vs Todos
-154. Mugen char Mahoraga Shinjuku OP edit by MugenForYou
-155. Mugen char Guy Die Gates by Afei
-156. Thukuna vs todos
-157. Mugen char KoyunTheMad by Planeptune Arte e Icarus
-158. Mugen char Thukuna by UZuUChi
-159. Mugen char Nadya | Char Academy Edit by InSeph
-160. Mugen char Naofumi vs Mash Kyrielight
-161. Como baixar jogos Mugen pelo Mediafire - Tutorial
-162. Mugen char Medaka all forms by Jhoy VL,  Mugen N5 and calliso
-163. Mugen char Metal Sonic by x𝘾𝙧𝙤𝙣𝙤𝙨𝙩𝙖𝙨𝙞𝙨x
-164. Cyber Mugen
-165. Mugen char Ryu Ishigori by  Juloveli
-166. Mugen char Li Shuwen BY Joan
-167. DLC 2 Fate Grand Order Mugen/Ikemen
-168. Mugen char Gilgamesh Edit by Ghost Carti and MugenN5
-169. DLC Fate Grand Order Mugen/Ikemen
-170. Mugen char Sakon y Ukon by Rogue CD
-171. Mugen char Tayuya by Rogue CD
-172. Mugen char Gilthunder by tío mugen (CHRIS)
-173. Fate Grand Order Mugen/Ikemen
-174. Mugen char Alter Gilgamesh V3
-175. Mugen char Vegeta and Goku SSJ4 by AzureSuperNova23
-176. Mugen char Doflamingo by Yugen
-177. Mugen char Mt lady by Prokiller192s
-178. Mugen char Monspet by tío (mugen CHRIS)
-179. Mugen char Gilgamesh FGO [Edit]
-180. Mugen char Meliodas King Demon by tío mugen CHRIS
+151. Mugen char Vergil all forms by Ghost Carti;
+152. Mugen char Dante all forms by Ghost Carti;
+153. Mahoraga vs Todos;
+154. Mugen char Mahoraga Shinjuku OP edit by MugenForYou;
+155. Mugen char Guy Die Gates by Afei;
+156. Thukuna vs todos;
+157. Mugen char KoyunTheMad by Planeptune Arte e Icarus;
+158. Mugen char Thukuna by UZuUChi;
+159. Mugen char Nadya | Char Academy Edit by InSeph;
+160. Mugen char Naofumi vs Mash Kyrielight;
+162. Mugen char Medaka all forms by Jhoy VL,  Mugen N5 and calliso;
+163. Mugen char Metal Sonic by x𝘾𝙧𝙤𝙣𝙤𝙨𝙩𝙖𝙨𝙞𝙨x;
+165. Mugen char Ryu Ishigori by  Juloveli;
+166. Mugen char Li Shuwen BY Joan;
+167. DLC 2 Fate Grand Order Mugen/Ikemen;
+168. Mugen char Gilgamesh Edit by Ghost Carti and MugenN5;
+169. DLC Fate Grand Order Mugen/Ikemen;
+170. Mugen char Sakon y Ukon by Rogue CD;
+171. Mugen char Tayuya by Rogue CD;
+172. Mugen char Gilthunder by tío mugen (CHRIS);
+173. Fate Grand Order Mugen/Ikemen;
+174. Mugen char Alter Gilgamesh V3;
+175. Mugen char Vegeta and Goku SSJ4 by AzureSuperNova23;
+176. Mugen char Doflamingo by Yugen;
+177. Mugen char Mt lady by Prokiller192s;
+178. Mugen char Monspet by tío (mugen CHRIS);
+179. Mugen char Gilgamesh FGO [Edit];
+180. Mugen char Meliodas King Demon by tío mugen CHRIS;
 181. Mugen char Nero Claudius [Edit]
 182. Mugen char Lancelot Edit by tío mugen (CHRIS)
 183. Mugen char Emiya Shirou [Edit]
