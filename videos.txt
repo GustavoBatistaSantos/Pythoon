@@ -208,61 +208,60 @@
 215. Mugen char Kabuto | Char Academy by InSeph;
 216. Mugen char Gojo vs 2B A batalha entre parentes distantes;
 217. Mugen char Shen by Ac3_l10;
-218. Mugen char Dabura by Mugen Matias
-219. Mugen char Vageta Base by Rat
-220. Mugen char Mahito Shibuya by Mugen Matias
-221. Mugen char Kanae Kocho Edit Resprite by Manic Mugenverse
-222. Mugen char Bomb Devil by Dr Animation
-223. Mugen char Wandenreich Rumble by DonTuatua
-224. Mugen char Mestre Kami by silly_devv
-225. Mugen char Victor by Ac3_l10
-226. Mugen char Itadori Modulo Edit by Jhoy VL, Original by Normandor And MeowBlast
-227. Mugen char Andy by Ac3_l10
-228. Moveset dos chars Mugen
-229. Mugen char Nero Cludius Wip 45%
-230. Mugen char Julius Novachrono all forms by Jhoy VL, calliso and Bog
-231. Mugen char Vekuna by Youssef 18
-232. Mugen char Boruto TBV vs Mahito Shibuya
-233. Mugen char Boruto TBV by Entah99
-234. Goku Mui vs Ichigo Mugetsu
-235. Mugen char Nero Claudius WIP 10%
-236. Mugen char Purple Heart by Xkleitoss
-237. Mugen char Maximillion Pegasus by HTDD
-238. Jujutsu Kaisen Mugen V9
-239. Mugen char Ainz Ooal Gown by Riv, Calliso and Jhoy VL
-240. Mugen char Yoshimura Eto by 刃下心
-241. Mugen char Zeel by Golax,UraharaGreenHat, and This Boy
-242. Mugen Academy x Stardust V10
-243. Mugen char Oppenheimer | Char Academy by InSeph
-244. Mugen char Dio all forms by Jhoy VL, Calliso and Kuro Fey:
-245. Mugen char Kaneki all forms by Rivelio, Edit by calliso and Jhoy VL
-246. Mugen char Mahito by The Cube Mugen
-247. Mugen char Adam | Char Academy by InSeph
-248. Mugen char Frost | Char Academy by InSeph
-249. Xkleitoss Mugen
-250. Demon Slayer Mugen V15
-251. Mugen char Kale | Char Academy by InSeph
-252. Mugen char Kanao [Edit]
-253. Mugen char Sakura | Char Academy by InSeph
-254. Mugen Sprites Kanao - Download
-255. Mugen char Makomo [Edit]
-256. Mugen char All Might | Char Stardust by Ronixxx, JAZIO X MUGEN anh Salah
-257. Mugen char Freeza | Char Academy by InSeph
-258. Mugen char Rin Tohsaka | Char Academy by InSeph
-259. Mugen char Adam by Planeptune Arte, Jhoy VL e Callison Mugen
-260. Mugen char Goku SSJ | Char Academy by InSeph
-261. Mugen char Pure Vessel by Z1aker
-262. Mugen cahr Alucard OP by This boy, SrChimuelo and calliso mugen
-263. Mugen char Android 18 by silly_devv
-264. Mugen char Future Gohan | Char Academy by InSeph
-265. Isekai Battle Mugen V8
-266. Mugen char Aqua Man | Char Academy by InSeph
-267. Mugen char Grenade Man | Char Academy by InSeph
-268. Mugen char Yuta | Char Stardust Adapted by: Anoobis && PackManMUGEN
-269. Mugen char Nightmare Grimm (OpenGL) by Z1aker
-270. Mugen char Kefla | Char Academy by InSeph
-271. Mugen char Lancer | Char Academy by InSeph
-272. Mugen char Oromato (OpenGL) by Z1aker
+218. Mugen char Dabura by Mugen Matias;
+219. Mugen char Vageta Base by Rat;
+220. Mugen char Mahito Shibuya by Mugen Matias;
+221. Mugen char Kanae Kocho Edit Resprite by Manic Mugenverse;
+222. Mugen char Bomb Devil by Dr Animation;
+223. Mugen char Wandenreich Rumble by DonTuatua;
+224. Mugen char Mestre Kami by silly_devv;
+225. Mugen char Victor by Ac3_l10;
+226. Mugen char Itadori Modulo Edit by Jhoy VL, Original by Normandor And MeowBlast;
+227. Mugen char Andy by Ac3_l10;
+228. Moveset dos chars Mugen;
+229. Mugen char Nero Cludius Wip 45%;
+230. Mugen char Julius Novachrono all forms by Jhoy VL, calliso and Bog;
+231. Mugen char Vekuna by Youssef 18;
+232. Mugen char Boruto TBV vs Mahito Shibuya;
+233. Mugen char Boruto TBV by Entah99;
+234. Goku Mui vs Ichigo Mugetsu;
+235. Mugen char Nero Claudius WIP 10%;
+236. Mugen char Purple Heart by Xkleitoss;
+237. Mugen char Maximillion Pegasus by HTDD;
+238. Jujutsu Kaisen Mugen V9;
+239. Mugen char Ainz Ooal Gown by Riv, Calliso and Jhoy VL;
+240. Mugen char Yoshimura Eto by 刃下心;
+241. Mugen char Zeel by Golax,UraharaGreenHat, and This Boy;
+243. Mugen char Oppenheimer | Char Academy by InSeph;
+244. Mugen char Dio all forms by Jhoy VL, Calliso and Kuro Fey:;
+245. Mugen char Kaneki all forms by Rivelio, Edit by calliso and Jhoy VL;
+246. Mugen char Mahito by The Cube Mugen;
+247. Mugen char Adam | Char Academy by InSeph;
+248. Mugen char Frost | Char Academy by InSeph;
+249. Xkleitoss Mugen;
+250. Demon Slayer Mugen V15;
+251. Mugen char Kale | Char Academy by InSeph;
+252. Mugen char Kanao [Edit];
+253. Mugen char Sakura | Char Academy by InSeph;
+254. Mugen Sprites Kanao - Download;
+255. Mugen char Makomo [Edit];
+256. Mugen char All Might | Char Stardust by Ronixxx, JAZIO X MUGEN anh Salah;
+257. Mugen char Freeza | Char Academy by InSeph;
+258. Mugen char Rin Tohsaka | Char Academy by InSeph;
+259. Mugen char Adam by Planeptune Arte, Jhoy VL e Callison Mugen;
+260. Mugen char Goku SSJ | Char Academy by InSeph;
+261. Mugen char Pure Vessel by Z1aker;
+262. Mugen cahr Alucard OP by This boy, SrChimuelo and calliso mugen;
+263. Mugen char Android 18 by silly_devv;
+264. Mugen char Future Gohan | Char Academy by InSeph;
+265. Isekai Battle Mugen V8;
+266. Mugen char Aqua Man | Char Academy by InSeph;
+267. Mugen char Grenade Man | Char Academy by InSeph;
+268. Mugen char Yuta | Char Stardust Adapted by: Anoobis && PackManMUGEN;
+269. Mugen char Nightmare Grimm (OpenGL) by Z1aker;
+270. Mugen char Kefla | Char Academy by InSeph;
+271. Mugen char Lancer | Char Academy by InSeph;
+272. Mugen char Oromato (OpenGL) by Z1aker;
 273. Naruto x Boruto Ninja Tribes Mugen V2
 274. Mugen char Knight (OpenGL) by Z1aker
 275. Mugen char Kurumi | Char Academy by InSeph
@@ -343,7 +342,6 @@
 350. Mugen char Izo by Kennedy Mugen
 351. Mugen char Okarun by Xkleitoss
 352. Mugen char Jotaro e Dio Edit by Jonhny6969
-353. Mugen Academy V9
 354. Mugen char Benimaru by Xkleitoss
 355. Mugen Screenpack Anime JUS Battle Ultimate (OpenGL)
 356. Mugen char Deku Vigilante Edit by dante TFL and xJacks
@@ -422,7 +420,6 @@
 429. Mugen char King by Shadow
 430. Mugen char Monet by LegendTTA - Edit by Juloveli
 431. Mugen char Ryomen Sukuna V5 by Dr animation and AikijinX
-432. Isekai Battle Mugen V7
 433. Mugen char Sukuna Megumi by Beet
 434. Mugen char Wonder Of You by @Gull_Eat_Fish
 435. Mugen char Ifrit by Xkleitoss
@@ -448,15 +445,12 @@
 455. Mugen char Zoro Edit by Proidysweet
 456. Mugen char Veldora by Xkleitoss
 457. Uma pequena live de mugen
-458. Jujutsu Kaisen Mugen V8
-459. Jogando Mugen Academy V8
 460. Mugen char Sukuna Manga V5.5 Edit by MPS e Guilherme Da Silva Mugen Supremo
 461. Mugen char Trafalgar Law Onigashima by Kennedy Mugen
 462. Mugen char Gojo Shinjuku (Edit DirectX)
 463. Mugen char Aoi Todo Shibuya [Edit]
 464. Mugen char Ichigo Dangai Edit by @Proidysweet
 465. Mugen char Griffith by Planeptune Edited by Gogetacris
-466. Mugen Academy V8
 467. Mugen char Eso [Edit]
 468. Mugen char Reggie star by Mugen Matias
 469. Mugen char Choso V2 [Edit]
@@ -467,7 +461,6 @@
 474. Mugen char Bayoneta by Justin Kaiser
 475. Mugen char Mai Shiranui by Kimisei
 476. Mugen char Mechamaru [Edit]
-477. Mugen Academy V7
 478. Mugen char Dark Monika by Fowler Batenkaitos, edited by Teuzitos
 479. Mugen char Final T-Dio by Tinkyxiao
 480. Mugen char Goku Blue Perfect V2 by TinLok
@@ -492,7 +485,6 @@
 499. Mugen char Draco EX | Char Stardust by Stardust Style AND
 500. Mugen char Trunks SSJ Rage by LUCASZIN DO MUGEN
 501. Mugen char Inosuke | Char Stardust by PackManMugen, Damaylor MUGEN, Lucaszin e mysh_2002
-502. Isekai Battle Mugen V6
 503. Mugen char Kos-Mos | Char Stardust by PackManMugen and Ahruon
 504. Mugen char Delta by Xkleitoss
 505. Mugen char Gohan Teen by Justin Kaiser
@@ -515,7 +507,6 @@
 522. Mugen char Vergil Edit by Mugen Black
 523. Mugen char Kakyoin Edit by 江小白_R
 524. Mugen char Gohan Teen all forms Edit by Então--ra
-525. Isekai Battle Mugen V5
 526. Mugen char Esqueleto by Justin kaiser
 527. Mugen char Pepe by Mounir Mugen
 528. Mugen char Crono | Char Stardust by PackManMUGEN, Planeptune Arte and Ahruon
@@ -550,7 +541,6 @@
 557. Melhores chars de 2024
 558. Mugen char Among US Pink Katana by Ismael005 Ortiz
 559. Mugen char Goku Blue (FighterZ) by Fresh Prince 24
-560. Jujutsu Kaisen Mugen V7
 561. Mugen char Yuta Body Gojo [Edit]
 562. Mugen char Goku Base + Kaioken by KuroFey-Mugen
 563. Mugen char Acnologia by Shinra Production
@@ -570,11 +560,9 @@
 577. Mugen char Gojo Shinjuku Edit by RyoumenS
 578. Mugen char Akaza V4 by Jonhny6969
 579. Mugen char Arima Kisho (OpenGL) by Ha Shitagokoro
-580. Mugen Academy V6
 581. Mugen char Knuckles | Char Academy Edit by InSeph
 582. Mugen char Annie | Char Academy Edit by InSeph
 583. Mugen char Junpei by Guilherme Da Silva Mugen Supremo
-584. Isekai Battle Mugen V4
 585. Mugen char Ace by Yūgen
 586. Mugen char Sukuna Manga (Full) by RyoumenS
 587. Mugen char Beatrice by Xkleitoss
@@ -589,7 +577,6 @@
 596. Mugen char Goku Blue | Char Academy by InSeph
 597. Mugen Sprites Noritoshi Kamo by Mugen Matias
 598. Mugen char Itadori by Xenodar123
-599. Mugen Academy V5
 600. Mugen char Barba branca jovem Edit by lanuzo
 601. Mugen char Eustass Kid Edit by PintaX724
 602. Mugen char Sukuna Heian by Jonhny6969
@@ -653,7 +640,6 @@
 660. Mugen char Chun-Li | Char Academy Edit by InSeph
 661. Mugen sprites Choso by Mugen matias, R0B4N BVN, God of Mugen e Hea4k/Herk Bvn
 662. Como Fazer o Ultimate nos Chars Academy - Tutorial
-663. Mugen Academy V4
 664. Mugen char MasterHand | Char Academy Edit by InSeph
 665. Mugen char Seiya | Char Academy Edit by InSeph
 666. Mugen char Eugeo | Char Academy Edit by InSeph
@@ -733,7 +719,6 @@
 740. Mugen char Goku Blue FighterZ by Fafanpizza
 741. Mugen char Momonga Edit by GOLDEN1998
 742. Mugen char Gojo Teen Update + Edit
-743. Mugen Academy V3
 744. Mugen char Anos Voldigoad [Edit]
 745. Mugen char Sukuna Era Heian Beta 50%
 746. Mugen char Mecha Sonic Edit by Planeptune Arte
@@ -771,7 +756,6 @@
 778. Mugen char Sukuna Shibuya V2 Edit by Giojo Mugen
 779. Mugen char Sukuna Mangá V4
 780. Mugen char Alucard by SrChimuelo
-781. Isekai Battle Mugen V3
 782. Mugen char Ayato | Char Academy by InSeph
 783. Mugen char Eris by Xkleitoss
 784. Mugen char Duplicate Vegeta by 에나로아즈🤍𝐸𝑛𝑎𝑟𝑜𝑛𝑧 𝑅ℎ𝑒𝑝𝑠𝑜𝑑𝑦🖤
@@ -849,7 +833,6 @@
 856. Mugen char Sasuke by  Mugen maker
 857. Mugen char Rayne Ames by Giojo Mugen e God of Mugen
 858. Pack de stages #08
-859. Mugen Academy V2
 860. Mugen char Feitan by UraharaGreenHat
 861. Mugen char Naruto by Mugen maker
 862. Mugen char Josuke | Char Academy by InSeph
@@ -887,12 +870,10 @@
 894. Mugen char Tsunade by MDYomi
 895. Mugen char Tohru alter by Xkleitoss
 896. Mugen char Josuke Edit by Suga Saki R
-897. Demon Slayer Mugen V14 (OpenGL e DirectX)
 898. Mugen char Nomu by Rivelio
 899. Mugen char Hantengu V2 - Release
 900. Naruto Ultimate Ninja Storm Trilogy Mugen Apk Offline
 901. Mugen char Urahara all forms by Mounir Mugen
-902. Demon Slayer Mugen Bvn Apk Offline by BvN Sasuke XD
 903. Mugen char Vegetto SSJ5 [Edit]
 904. Rui vs Doflamingo
 905. Dragon ball Super Mugen Bvn Apk Offline by Rein BvN e Rukage
@@ -957,7 +938,6 @@
 964. Mugen sprites Suguru Geto (Jujutsu Kaisen 0) by Arthur mugen, god of mugen e Kenny BVN
 965. Mugen char Suguru Geto by Nephlicc
 966. Ryomei Sukuna Mangá 50% (Beta)
-967. Isekai Battle Mugen V2 (OpenGL e DirectX)
 968. Mugen char Reimu Hakurei by Planeptune Arte
 969. Mugen char Gojo Manga Final Edit by SrChimuelo
 970. Mugen sprites Power by R0B4N, MPS, Ghost  e Kenny
@@ -1024,7 +1004,6 @@
 1031. Mugen char Afrodite by Jhon X
 1032. Mugen char Goku SSJ FighterZ V2 by Fresh Prince 24
 1033. Mugen char Monkey D. Dragon Papai noel by Kaiser Leon
-1034. Mugen Academy V1
 1035. Mugen char Tharja | Char Academy by InSeph
 1036. Mugen char Ryu | Char Academy by InSeph
 1037. O começo da guerra - Capítulo 4 (parte 2)
@@ -1060,7 +1039,6 @@
 1067. Mugen char Sprigtrap by Micheal22
 1068. Cutscenes feitas no powerpoint e dublagem feita por IA - Capítulo 5
 1069. Agora sim esse jogo ficou bom - Capítulo 4
-1070. Jujutsu Kaisen Mugen V6 (OpenGL e DirectX)
 1071. Muitas lutas foram cortadas - Capítulo 3
 1072. Mugen char Sukuna Shibuya Arc - Resprite (Edit Balanceado)
 1073. Mugen char Inuyasha V4 by Suga Saki R
@@ -1081,7 +1059,6 @@
 1088. Mugen char Gojo | Char Academy by InSeph
 1089. Mugen Screenpack Infinite Legacy X (Ikemen OpenGL) - Edited by InSeph
 1090. Mugen char Soi Fon | Char Academy by InSeph
-1091. Demon Slayer Mugen V13 (OpenGL e DirectX)
 1092. Ulquiorra vs Renji
 1093. Mugen char Ulquiorra | Char Academy by InSeph
 1094. Yoshikage Kira vs Rohan
@@ -1264,7 +1241,6 @@
 1271. Minato vs Isshin Kurosaki
 1272. Mugen char Jotaro | Char Academy by InSeph
 1273. Mugen char Dark Sonic V2 by Sonikku TSK
-1274. Isekai Battle Mugen (OpenGL e DirectX)
 1275. Mugen char Ippo | Char Academy by InSeph
 1276. Mugen char Ainz Ooal Gown | Char Academy by InSeph
 1277. Mugen char Emi Yusa | Char Academy by InSeph
@@ -1279,7 +1255,6 @@
 1286. Mugen char Jiren | Char Academy by InSeph
 1287. Mugen char Kenpachi TYBW V4 by Zexxel Strive
 1288. Mugen char Askin by Mounir Mugen
-1289. Demon Slayer Mugen V12 (OpenGL e DirectX)
 1290. Mugen char Trafalgar Law Punk Hazard [Mini Edit]
 1291. Mugen char Tapion | Char Academy by InSeph
 1292. Mugen char Itachi Edo Tensei (OpenGL) by agora relutante
@@ -1587,7 +1562,6 @@
 1594. Mugen char Cellbuzer 1 form by Alex Ospina
 1595. Mugen char Ishida | Char Academy by InSeph
 1596. Mugen Sprites Katana Man
-1597. Jujutsu Kaisen Mugen V5 (OpenGL e DirectX)
 1598. Mugen char Hashirama by Xawlyn
 1599. Mugen char Bardock by Malusardi MUGEN
 1600. Mugen char Aioros HD (DirectX)
@@ -1641,7 +1615,6 @@
 1648. Mugen char Yammy Llargo
 1649. Muzanjiro vs Luffy Snakeman #shorts
 1650. Luffy Snakeman vs Ichigo True Shikai #shorts #bleach #onepiece
-1651. Demon Slayer Mugen V11 (OpenGL e DirectX)
 1652. Os Melhores chars de 2022
 1653. Mugen char Eutanass Kid Edit by MFmugen
 1654. Mugen char Gojo (Infinite Venerable) Edit by QINYAN
@@ -1755,7 +1728,6 @@
 1762. Mugen char Kale Berserker by Bryan Odinson
 1763. Mugen char Gyutaro V2 by black-x-sage
 1764. Mugen char Neymar SSJ4 by MFmugen
-1765. Jujutsu Kaisen Mugen V4 (OpenGLe DirectX)
 1766. Mugen char Black Asta [Edit]
 1767. Mugen char Nappa by tomo
 1768. Mugen char Luck Voltia [Edit]
@@ -1818,7 +1790,6 @@
 1825. Mugen char Yoruichi TYBW by Mounir
 1826. Mugen char Byakuya | Char Academy by InSeph
 1827. Mugen char Gohan Beast by Luan360 Gameplay PC e Kyuri Dex
-1828. Jujutsu Kaisen Mugen V3 (OpenGL e DirectX)
 1829. Mugen char Gogeta SSJ4 by DCSLAYER e King Ob
 1830. Mugen char Broly DBS (FighterZ) by BlueStoneW e DCslayer
 1831. Mugen char Ryougi Shiki [Edit]
@@ -1826,7 +1797,6 @@
 1833. Mugen char SasukePTS | Char Academy by InSeph
 1834. Mugen char Mob Transform by resorrev
 1835. Mugen char Yuta Okkotsu (Edit by Cinontk)
-1836. Demon Slayer Mugen V10 (OpenGL e DirectX)
 1837. Mugen char Sanji by Buck98
 1838. Mugen char Naruto Baryon V3 (DirectX) by The Cube
 1839. One Piece Mugen V9 (DirectX)
@@ -2058,7 +2028,6 @@
 2065. Zoro (Onigashima) vs Shiryu all forms
 2066. Mugen char Zoro (Onigashima)
 2067. Mugen char Jin Woo by MFmugenPT BR
-2068. Demon Slayer Mugen V9 (OpenGL e DirectX)
 2069. Shiryu all forms vs Seiya all forms
 2070. Mugen char Lenalee by Planeptune arte
 2071. Mugen char Shiryu all forms by MaSaHo
@@ -2104,7 +2073,6 @@
 2113. Saber vs Arcueid e Gilgamesh
 2114. Mugen char Saber edit by QINYAN
 2115. Mugen char Kaguya by Baby_Desu
-2116. Demon Slayer Mugen V8 (OpenGL e DirectX)
 2117. Mugen char Juugo by YanBraga
 2118. Mugen char Shisui by Shinrashi
 2119. Mugen char Queen by mysh 2002
@@ -2127,7 +2095,6 @@
 2136. Mugen char Bra Majin SSJ2 by Sarrib
 2137. Mugen char Rengoku Oni by SoulFire
 2138. Mugen char Karito Nakami by Black X Sage
-2139. Jujutsu Kaisen Mugen V2 (DirectX)
 2140. Kaigaku vs Zenitsu Last Arc
 2141. Mugen char Kaigaku (Edit: DirectX)
 2142. Mugen char Joseph | Char Academy by InSeph
@@ -2214,14 +2181,12 @@
 2223. Atomic Samurai vs Kakashi
 2224. Mugen char Kakashi | Char Academy by InSeph
 2225. Mugen char Atomic Samurai by Justin kaiser
-2226. Patch de chars Demon Slayer Mugen V7
 2227. Shigaraki vs Takizawa
 2228. Mugen char Shigaraki
 2229. Mugen char Takizawa by Dox
 2230. Mugen char Knuckle by Jhon X
 2231. Mugen char Shura by Siul1
 2232. Mugen char Afrodite V7 Atualizado por Siul1
-2233. Demon Slayer Mugen V7 (OpenGL e DirectX)
 2234. Kokushibo vs Lancelot e Jin Mori
 2235. Mugen char Kokushibo full power [Edit]
 2236. Mugen char Titan de Ataque
@@ -2559,14 +2524,12 @@
 2568. Mugen char Dio dublado por Mugen Br
 2569. Mugen char Kawaki feito por VitorDxD
 2570. Mugen char All Might dublado por Mugen Br
-2571. Demon Slayer Mugen V6 (OpenGL e DirectX)
 2572. Mugen Screenpack Jojo's Bizarre Adventure V4 (DirectX)
 2573. Mugen char HFTF Jotaro Kujo feito por Dio Brando
 2574. Pack de chars Saga, Camus, mascara da morte, Afrodite, Milo e Shaka [Atualização]
 2575. Mugen char Future Gohan feito por Kronos
 2576. Mugen char Dio Over Heaven feito por Bog Mugen e Knidds
 2577. Mugen char Vegetto SSJ4 feito por RYUDARA ACADEMY e Iron_Potato 40k
-2578. Jujutsu Kaisen Mugen V1 (DirectX)
 2579. Mugen char Kefla FighterZ (Edit: DirectX)
 2580. Mugen Screenpack Anime All StarZ A New Wave (OpenGL)
 2581. Mugen char Gold.  Roger feito por Kennedy Mugen
@@ -2740,7 +2703,6 @@
 2749. Mugen char Reiner Timeskip feito por BRuhha
 2750. Mugen char Mikasa Timeskip feito por BRuhha
 2751. Mugen char Armin Timeskip feito por BRuhha
-2752. Demon Slayer Mugen V5 (OpenGL e DirectX)
 2753. Mugen char Gogeta ssj5 feito por Teixeira's Mugen e elmobr
 2754. Mugen char future gohan feito por BloodBathAnime
 2755. Mugen char Light Yagami V2
@@ -2851,7 +2813,6 @@
 2860. Mugen char Kefla metamoro SSJ Berserker feito por Ismael005 Ortiz
 2861. Aizen vs Dio - Jump Force Mugen V7
 2862. Mugen char Kefla Metamoro SSJ feito por BBANIME AKA HACKATTACK
-2863. Demon Slayer Mugen V4 (DirectX)
 2864. Mugen char Jinbei V2 feito por JeanneSoul
 2865. Mugen Screenpack Dragon ball Super Mugen V5 (DirectX)
 2866. Mugen char Bills Migatte no gokui completo
@@ -2948,7 +2909,6 @@
 2957. Mugen char Vegeta ssj green by ElHuesos Locos
 2958. Bleach Mugen V6 (OpenGL e DirectX)
 2959. Mugen char Goku ssj rosé
-2960. Demon Slayer Mugen V3 (DirectX)
 2961. Mugen char Super vegetto by Knightmare404
 2962. Mugen char Tomioka by Luciano Machado and
 2963. Mugen char Evil Gohan feito por Ismael005 Ortiz
@@ -2991,7 +2951,6 @@
 3000. Mugen char Thor feito por Knightmare404
 3001. Mugen char Yamamoto feito por Planeptune arte
 3002. Mugen char Black Krilin feito por ElHuesos Locos e Inseph
-3003. Demon Slayer Mugen V2 (DirectX)
 3004. Mugen char Luffy neo jus style feito por Faceshield Ninja
 3005. Mugen char Natsu neo jus style feito por Faceshield Ninja
 3006. Mugen char Ichigo all forms V2
