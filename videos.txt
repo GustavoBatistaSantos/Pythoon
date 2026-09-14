@@ -262,7 +262,7 @@
 270. Mugen char Kefla | Char Academy by InSeph;
 271. Mugen char Lancer | Char Academy by InSeph;
 272. Mugen char Oromato (OpenGL) by Z1aker;
-273. Naruto x Boruto Ninja Tribes Mugen V2
+273. Naruto x Boruto Ninja Tribes Mugen V2;
 274. Mugen char Knight (OpenGL) by Z1aker
 275. Mugen char Kurumi | Char Academy by InSeph
 276. Mugen char Hive (OpenGL) by Z1aker
