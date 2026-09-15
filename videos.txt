@@ -263,9 +263,9 @@
 271. Mugen char Lancer | Char Academy by InSeph;
 272. Mugen char Oromato (OpenGL) by Z1aker;
 273. Naruto x Boruto Ninja Tribes Mugen V2;
-274. Mugen char Knight (OpenGL) by Z1aker
-275. Mugen char Kurumi | Char Academy by InSeph
-276. Mugen char Hive (OpenGL) by Z1aker
+274. Mugen char Knight (OpenGL) by Z1aker;
+275. Mugen char Kurumi | Char Academy by InSeph;
+276. Mugen char Hive (OpenGL) by Z1aker;
 277. Mugen char Gilgamesh UBW | Char Academy by InSeph
 278. Mugen char Golbez by Planeptune Arte
 279. Mugen char Goku Mui | Char Academy by InSeph
@@ -1997,7 +1997,6 @@
 2034. Como Jogar Mugen no Celular pelo Joystick
 2035. Kirito vs Black ssj rose time breaker
 2036. Mugen char Kirito | Char Academy by InSeph
-2037. Naruto x Boruto Ninja Tribes Mugen (OpenGL e DirectX)
 2038. Mugen char Kaito by Jhon X
 2039. Mugen char Sasuke Rinnegan (Edit directx by Trex233)
 2040. Mugen char Madara Rikudou (Edit directx by Trex233)
