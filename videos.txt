@@ -266,44 +266,44 @@
 274. Mugen char Knight (OpenGL) by Z1aker;
 275. Mugen char Kurumi | Char Academy by InSeph;
 276. Mugen char Hive (OpenGL) by Z1aker;
-277. Mugen char Gilgamesh UBW | Char Academy by InSeph
-278. Mugen char Golbez by Planeptune Arte
-279. Mugen char Goku Mui | Char Academy by InSeph
-280. Mugen char Soul Warrior (OpenGL) by Z1aker
-281. Mugen char Aizen HD (OpenGL) by Fafan
-282. Mugen char Ichigo Mugetsu | Char Academy by InSeph
-283. Mugen char Heathcliff by Xkleitoss
-284. Mugen char Ichigo Dangai HD by BK_Mugen
-285. Mugen char Grimm by Z1aker
-286. Mugen char Corrupt Vessel (OpenGL) by Z1aker
-287. Mugen char Collector by Z1aker
-288. Mugen char Hornet (OpenGL) by Z1aker
-289. Mugen char Rikudou Sennin by Shingeki No Mugen
-290. Mugen char Videl Fighterz by silly_devv
-291. Mugen char Krilin Fighterz by silly_devv
-292. Mugen char Vegeta Scounter Fighterz by silly_devv
-293. Mugen char Sanji by Edd13, edit by Strider
-294. Mugen char Sukuna Shibuya Edit by Cinontk
-295. Pack de Stages #20
-296. Mugen char Besouro Azul by kimisei
-297. Mugen char Yousuke Shibazaki by Xkleitoss
-298. Pack de Stages #19
-299. Melhores chars de 2025
-300. Mugen Screenpack IKEMEN LAST CROSSOVER by Protozoark
-301. Mugen Screenpack Naruto Classico
-302. Mugen char Naruto Kid [Edit]
-303. Naruto Classico Mugen
-304. Mugen char Sasuke Kid CS2 JUS [Edit]
-305. Mugen char Yamcha by silly devv
-306. Mugen char Naruto Kid 1 Tail JUS [Edit]
-307. Mugen char Santa Rimuru by Xkleitoss
-308. Mugen char Aizen all forms vs Boruto Time Skip
-309. Mugen char Shinobi Alliance by om Hy
-310. Mugen char Zaku, Dosu e Kin Tsuchi [Edit]
-311. Mugen char Sakon [Edit]
-312. Mugen char Jirobo [Edit]
+277. Mugen char Gilgamesh UBW | Char Academy by InSeph;
+278. Mugen char Golbez by Planeptune Arte;
+279. Mugen char Goku Mui | Char Academy by InSeph;
+280. Mugen char Soul Warrior (OpenGL) by Z1aker;
+281. Mugen char Aizen HD (OpenGL) by Fafan;
+282. Mugen char Ichigo Mugetsu | Char Academy by InSeph;
+283. Mugen char Heathcliff by Xkleitoss;
+284. Mugen char Ichigo Dangai HD by BK_Mugen;
+285. Mugen char Grimm by Z1aker;
+286. Mugen char Corrupt Vessel (OpenGL) by Z1aker;
+287. Mugen char Collector by Z1aker;
+288. Mugen char Hornet (OpenGL) by Z1aker;
+289. Mugen char Rikudou Sennin by Shingeki No Mugen;
+290. Mugen char Videl Fighterz by silly_devv;
+291. Mugen char Krilin Fighterz by silly_devv;
+292. Mugen char Vegeta Scounter Fighterz by silly_devv;
+293. Mugen char Sanji by Edd13, edit by Strider;
+294. Mugen char Sukuna Shibuya Edit by Cinontk;
+295. Pack de Stages #20;
+296. Mugen char Besouro Azul by kimisei;
+297. Mugen char Yousuke Shibazaki by Xkleitoss;
+298. Pack de Stages #19;
+299. Melhores chars de 2025;
+300. Mugen Screenpack IKEMEN LAST CROSSOVER by Protozoark;
+301. Mugen Screenpack Naruto Classico;
+302. Mugen char Naruto Kid [Edit];
+303. Naruto Classico Mugen;
+304. Mugen char Sasuke Kid CS2 JUS [Edit];
+305. Mugen char Yamcha by silly devv;
+306. Mugen char Naruto Kid 1 Tail JUS [Edit];
+307. Mugen char Santa Rimuru by Xkleitoss;
+308. Mugen char Aizen all forms vs Boruto Time Skip;
+309. Mugen char Shinobi Alliance by om Hy;
+310. Mugen char Zaku, Dosu e Kin Tsuchi [Edit];
+311. Mugen char Sakon [Edit];
+312. Mugen char Jirobo [Edit];
 313. Calliso Mugen Roster - A luta só terminou porque o tempo acabou
-314. Mugen char Kidomaru [Edit]
+314. Mugen char Kidomaru [Edit];
 315. Mugen char Tayuya [Edit]
 316. Mugen char Hinada Kid [Edit]
 317. Mugen char Obanai Iguro by Mysh 2002
