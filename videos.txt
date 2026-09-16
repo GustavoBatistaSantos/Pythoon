@@ -313,10 +313,10 @@
 321. Mugen char Kankuro Kid [Edit];
 322. Mugen char Temari Kid [Edit];
 323. Mugen char Ay Youth (Raikage) by JauhArts;
-324. Mugen char Kiba Kid [Edit]
-325. Mugen char Shikamaru Kid [Mini Edit]
-326. Mugen char Shino Kid [Edit]
-327. Mugen char Neji Kid [Edit]
+324. Mugen char Kiba Kid [Edit];
+325. Mugen char Shikamaru Kid [Mini Edit];
+326. Mugen char Shino Kid [Edit];
+327. Mugen char Neji Kid [Edit];
 328. Mugen char Naruto 3 Tails [Edit]
 329. Mugen char Naruto 2 Tails [Edit]
 330. Mugen char Goku vs Batman (Com preparo)
