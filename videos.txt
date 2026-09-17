@@ -386,18 +386,18 @@
 395. Mugen char Rebirth DIO 3.0 by BADTIME404;
 396. Mugen char Cid Kagenou (Shadow) Wip V3 by RyoumenS;
 397. Mugen char Sung Jinwoo Wip V2 by RyoumenS;
-398. Mugen char Gojo HD by InSeph and King067
-399. Mugen char Ichigo Asterisk Edit Dano Renovado
-400. Mugen char Aizen Mumoremy Edit by Dano Renovado
-401. Mugen char Toguro by Planeptune Arte
-402. Mugen char Goku God by Gabriell e Tactietrake
-403. Mugen char Granola by Bardock Revenge
-404. Mugen char Vegeta SSJ3 Daima by Bardock Revenge
-405. Mugen cahr Satoru Gojo Edit by Dyan Tong
-406. Mugen char Kirito [Edit]
-407. Mugen char Takizawa | Char Academy Edit by InSeph
-408. Mugen char Dante [Edit]
-409. Mugen char Hitori Gotoh by Xkleitoss
+398. Mugen char Gojo HD by InSeph and King067;
+399. Mugen char Ichigo Asterisk Edit Dano Renovado;
+400. Mugen char Aizen Mumoremy Edit by Dano Renovado;
+401. Mugen char Toguro by Planeptune Arte;
+402. Mugen char Goku God by Gabriell e Tactietrake;
+403. Mugen char Granola by Bardock Revenge;
+404. Mugen char Vegeta SSJ3 Daima by Bardock Revenge;
+405. Mugen cahr Satoru Gojo Edit by Dyan Tong;
+406. Mugen char Kirito [Edit];
+407. Mugen char Takizawa | Char Academy Edit by InSeph;
+408. Mugen char Dante [Edit];
+409. Mugen char Hitori Gotoh by Xkleitoss;
 410. Mugen char Vergil [Edit]
 411. Mugen char Zero Nightmare by Micheal22
 412. Melty Blood Type Lumina Mugen (OpenGL)
