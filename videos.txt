@@ -400,7 +400,7 @@
 409. Mugen char Hitori Gotoh by Xkleitoss;
 410. Mugen char Vergil [Edit];
 411. Mugen char Zero Nightmare by Micheal22;
-412. Melty Blood Type Lumina Mugen (OpenGL);
+412. Melty Blood Type Lumina Mugen (OpenGL)
 413. Mugen char Old Joseph V2 by Xyubo.
 414. Mugen char Milim Nava by Xkleitoss
 415. Mugen char Tensa Zangetsu by Petamynx
