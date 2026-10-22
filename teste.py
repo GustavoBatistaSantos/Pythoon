@@ -1,10 +1,6 @@
 pessoas = []
-for i in range(1, 5):
-    print(f"Pessoa {i}:")
-    idade = int(input("Digite a idade: "))
-    altura = float(input("Digite a altura: "))
-    pessoas.append([idade, altura])
-
-print("Dados salvos na lista:")
-print(pessoas)
-
+for c in range(1, 5):
+    altura = float(input("Digite sua altura: "))
+    idade = int(input("Digite sua idade: "))
+    pessoas.append((altura, idade))
+print(f"os dados coletados foram:{pessoas} ")
